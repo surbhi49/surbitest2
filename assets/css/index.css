@@ -1,0 +1,6 @@
+img{ height: 400px;
+    width: 300px;
+}
+body{
+    background-image: url("../img/Blue.png");
+}
